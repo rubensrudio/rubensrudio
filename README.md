@@ -1,4 +1,4 @@
-### Olá! aqui é Rubens Rudio, desenvolvedor de sistemas!
+### Hi! Rubens Rudio here, Software Engineer!
 <div align="center">
   <a href="https://github.com/rubensrudio">
   <img height="180em" style="float:left" width:"49%" src="https://github-readme-stats.vercel.app/api?username=rubensrudio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

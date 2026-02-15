@@ -1,21 +1,97 @@
-### Hi! Rubens here, Software Engineer!
 <div align="center">
-  <a href="https://github.com/rubensrudio">
-  <img height="180em" style="float:left" width:"49%" src="https://github-readme-stats.vercel.app/api?username=rubensrudio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="float:right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensrudio&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Rubens%20Rudio&fontSize=42&fontAlignY=30&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="RR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RR-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="RR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RR-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="RR-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<br>
+
+## 👨‍💻 About Me
+
+```typescript
+const rubens = {
+    role: "Software Engineer",
+    location: "Brazil 🇧🇷",
+    currentFocus: "Full Stack Development",
+    interests: ["Web Development", "Clean Code", "Problem Solving"],
+    lifePhilosophy: "Turning coffee into code since forever ☕"
+};
+```
+
+<br>
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<div align="center">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+### 🛠️ Frameworks & Tools
+<div align="center">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubensrudio&show_icons=true&count_private=true&hide_border=true&title_color=7159c1&icon_color=7159c1&text_color=c9d1d9&bg_color=0d1117" alt="Rubens Rudio github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensrudio&layout=compact&hide_border=true&title_color=7159c1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubensrudio&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1" alt="Rubens Rudio streak stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rubensrudio&hide_border=true&title_color=7159c1&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=6" />
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rubensrudio&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
+
+<br>
+
+## 📫 Let's Connect?
+
+<div align="center">
+  <a href="mailto:rubensrudio@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/rubensrudio" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/rubensrudio" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+## 💭 Quote of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</div>
+
+<div align="center">
   
-  ##
- 
-<div> 
-  <a href = "mailto:rubensrudio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rubensrudio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  ### 🌟 Show some ❤️ by starring some repositories!
+  
+  ![](https://komarev.com/ghpvc/?username=rubensrudio&color=7159c1&style=flat-square&label=Profile+Views)
+  
 </div>

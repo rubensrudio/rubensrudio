@@ -24,6 +24,7 @@ const rubens = {
 <div align="center">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,27 +37,6 @@ const rubens = {
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubensrudio&show_icons=true&count_private=true&hide_border=true&title_color=7159c1&icon_color=7159c1&text_color=c9d1d9&bg_color=0d1117" alt="Rubens Rudio github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensrudio&layout=compact&hide_border=true&title_color=7159c1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubensrudio&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1" alt="Rubens Rudio streak stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rubensrudio&hide_border=true&title_color=7159c1&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=6" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rubensrudio&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <br>

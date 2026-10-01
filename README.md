@@ -2,7 +2,7 @@
 
 **Senior Full Stack Software Engineer** — Java · Python · Angular · Applied AI
 
-I've spent 18+ years building enterprise systems end to end: Spring Boot and FastAPI backends, Angular frontends, and the databases and pipelines behind them. I'm currently a Software Engineer at Halliburton. On the side, I build AI products at [HaloTech Labs](https://halotechlabs.com), bringing LLMs, RAG, and machine learning into real-world applications.
+I've spent 18+ years building enterprise systems end to end: Spring Boot and FastAPI backends, Angular frontends, and the databases and pipelines behind them. I'm currently a Software Engineer at Halliburton. On the side, I run my own studio, [HaloTech Labs](https://halotechlabs.com), bringing LLMs, RAG, and machine learning into real-world applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rubensrudio-informational?style=flat&logo=linkedin&logoColor=white&color=7159C1)](https://www.linkedin.com/in/rubensrudio)
 [![Website](https://img.shields.io/badge/Website-halotechlabs.com-informational?style=flat&logo=googlechrome&logoColor=white&color=7159C1)](https://halotechlabs.com)
@@ -77,6 +77,6 @@ Classifies support tickets, predicts priority, and returns confidence scores, wi
 ## 📫 Beyond code
 
 - 📍 Based in Aracruz, ES, Brazil 🇧🇷
-- 🏢 Building AI products at [HaloTech Labs](https://halotechlabs.com)
+- 🏢 Founder of [HaloTech Labs](https://halotechlabs.com), my AI product studio
 - 🧪 All projects here are personal work, built on my own time with public or synthetic data
 - 🤝 Open to challenging backend and full stack roles
